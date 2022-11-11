@@ -4,7 +4,7 @@
     padding: 0;
 };
 .slide-container{
-   max-width: 200px;
+/*    max-width: 200px; */
     position: relative;
    margin: 50px auto;
    display: flex;
