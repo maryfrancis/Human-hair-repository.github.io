@@ -27,16 +27,16 @@
 
     
 .slide1 img{
-    width: 500px;
+    width: 400px;
     height: 50vh;
     
-    margin-left: 450px;
+    margin-left: 420px;
     /* position: relative; 
     object-position: center; */
     border-radius: 100px 100px;
     
 }
-/* a{
+ a{
     cursor: pointer;
     position: absolute;
     top: 36%;
@@ -52,7 +52,7 @@
     opacity: 0;
    
 }
- */
+ 
 
 .next {
     right: 26.3rem;
