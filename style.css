@@ -40,9 +40,9 @@
     cursor: pointer;
     position: absolute;
     top: 36%;
-/*     width: auto; */
-    /* margin-top: -22px; */
-/*     padding: 16px; */
+    width: auto; 
+     margin-top: -22px; 
+    padding: 16px; 
     color: black;
     font-weight: bold;
     font-size: 20px;
